@@ -26,6 +26,6 @@ $year = date('Y');
  </head>
  <body>
  <h1><?php echo $h1; ?></h1>
- <span> <?php echo $year; ?></span> 
+ <span> <?php echo $year; ?></span> <br>
  </body> 
  </html>
